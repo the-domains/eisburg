@@ -1,0 +1,14 @@
+layout_spectrum: 0.3378624201286584
+typography_spectrum: 0.6805610214360058
+color:
+  brandStrength: 0.5401787732262164
+  lightness: 0.5675711138173938
+  saturation: 0.36211535846814513
+  rhythmicContrast: 0.9331625518389046
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Eisburg
